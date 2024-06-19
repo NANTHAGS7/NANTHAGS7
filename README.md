@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nantha G S</h1>
 <h3 align="center">AI/ML Enthusiast</h3>
 <img align="right" alt="Goku" width="400" src="https://media.tenor.com/awdwRkbJzCgAAAAC/goku.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanthags7&label=Profile%20views&color=0e75b6&style=flat" alt="nanthags7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanthags7" alt="nanthags7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nantha7_gs" target="blank"><img src="https://img.shields.io/twitter/follow/nantha7_gs?logo=twitter&style=for-the-badge" alt="nantha7_gs" /></a> </p>
 
